@@ -67,12 +67,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<!-- SNAKE ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jinosabu1999/jinosabu1999/main/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
-</p>
-
----
 
 ## 💰 Support My Work
 <p align="center">
